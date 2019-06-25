@@ -51,9 +51,6 @@ body{
 .mreze{
     font-size: 160%;
 }
-.footer{
-    background-color:#A8A79B;
-}
 .font{
     font-family: 'Dancing Script', cursive;
 }
@@ -65,12 +62,6 @@ body{
 .rins{
     width:100%;
     height:auto;
-}
-.velicina{
-    font-size:2.7rem;
-}
-.velicina2{
-    font-size:1.2rem;
 }
 input::placeholder, textarea::placeholder{
     color: #40466B;
